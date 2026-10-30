@@ -1,0 +1,6 @@
+{
+  "name": "Armonia: Sanctuary RTS",
+  "description": "Fast-paced card-driven real-time strategy game where factions attune island sanctuaries using attribute-driven physics, automated gatherers, and customizable fortresses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
